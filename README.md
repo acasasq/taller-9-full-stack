@@ -16,4 +16,4 @@
 <img src="./public/images/CSS.png" alt="css">
 
 <h2> punto 4 : Titulos </h2>
-<img src=./
+<img src="./public/images/punto 4.png" alt="Punto 4">
