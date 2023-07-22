@@ -1,10 +1,13 @@
 body{
     font-family: 'Jost';
-    align-items: center;
+    align-items: Center;
+    letter-spacing: -0.61px;
   }
   .azul{
+    text-align: center;
     color:#5961F9;
   }
   .rojo{
+    text-align: center;
     color:#E3242B;
   }

@@ -16,4 +16,4 @@
 <img src="./public/images/CSS.png" alt="css">
 
 <h2> punto 4 : Titulos </h2>
-<img src="<script async src="//jsfiddle.net/acasasq/97zqyupn/embed/"></script>
+<img src=./
