@@ -5,10 +5,12 @@ body{
     flex-direction: column;
 }
 .Enlace__1{
+    text-align: center;
     color: yellow;
     text-decoration: underline;
 }
 .Enlace__2{
+    text-align: center;
     color: purple;
     text-decoration: underline;
 }
