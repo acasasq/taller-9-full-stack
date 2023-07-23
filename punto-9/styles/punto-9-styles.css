@@ -1,0 +1,8 @@
+table{
+    margin: 0px 200px;
+    border-collapse: collapse;
+    background-color: yellow;
+}
+th{
+    color: red;
+}

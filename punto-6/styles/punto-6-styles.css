@@ -1,7 +1,8 @@
 body{
     text-align: center; 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+    height: 200px;
+    flex-direction: column;
 }
 .Enlace__1{
     color: yellow;
