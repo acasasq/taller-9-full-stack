@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+
+}
+.header__web{
+    align-items: center;
+    background-color: #ffff;
+    
+    color: white;
+    padding: 5px;
+}
+
+nav ul {
+    display: flex;
+    gap: 45px;
+    list-style: none;
+    background-color: #be93d4;
+    padding: 20px;
+}
+
+nav a {
+    color: #ffff;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+nav a:hover{
+    color: lightblue;
+}
+    

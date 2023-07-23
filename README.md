@@ -20,3 +20,12 @@
 
 <h2> Punto 5 : Estilos de texto </h2>
 <img src="./public/images/punto 5.png" alt="Punto 5">
+
+<h2> Punto 6 : Enlaces </h2>
+<img src="./public/images/punto 6.png" alt="Punto 6">
+
+<h2> Punto 7-8: Navegación </h2>
+<img src="./public/images/punto 7-8.png" alt="Punto 7-8">
+
+<h2> Punto 9: Tablas </h2>
+<img src="./public/images/" alt="Punto 9">
