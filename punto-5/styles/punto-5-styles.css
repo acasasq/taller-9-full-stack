@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    text-align: justify;
+    margin: 50px 200px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+}
+
+u {
+    color: green;
+    font-weight: 200;
+}
+
+b {
+    color: red;
+}
+
+h2 {
+    text-decoration: overline;
+}
+
+u {
+    color: green;
+}
+
+strong {
+    font-size: 20px;
+}
+
+span {
+    text-decoration: underline overline;
+}
+
+b style {
+    color: blue;
+}
+
+b style {
+    color: red;
+}

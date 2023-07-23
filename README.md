@@ -15,5 +15,8 @@
 <h2> Punto 3 : CSS </h2>
 <img src="./public/images/CSS.png" alt="css">
 
-<h2> punto 4 : Titulos </h2>
+<h2> Punto 4 : Titulos </h2>
 <img src="./public/images/punto 4.png" alt="Punto 4">
+
+<h2> Punto 5 : Estilos de texto </h2>
+<img src="./public/images/punto 5.png" alt="Punto 5">
